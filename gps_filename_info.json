@@ -1,1545 +1,2565 @@
-
 [
     {
-        "milestone": "M7",
-        "filename": "GPS_GP_Back_BasicBackpack-01-GreenPark_Var01",
-        "rarity": "Common",
-        "displayname": "Green GP Backpack"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Back_BasicBackpack-01-NumberOne_Var01",
-        "rarity": "Common",
-        "displayname": "#1 Red Backpack"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Back_BearWand-01-SailorBear_Var01",
-        "rarity": "Rare",
-        "displayname": "Sailor Bear Wand"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Back_OxygenTank-01-Scuba_Var01",
-        "rarity": "Epic",
-        "displayname": "GP Scuba Tank"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Back_Parachute-01-Aviator_Var01",
-        "rarity": "Rare",
-        "displayname": "Pink Aviator Parachute"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_BasicTee-01-Foamie_Var01",
-        "rarity": "Rare",
-        "displayname": "Foamie Fan Tee"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_BomberJacket-01-Aviator_Var01",
-        "rarity": "Rare",
-        "displayname": "Pink Aviator Outfit"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Coveralls-01-Backyard_Var01",
-        "rarity": "Rare",
-        "displayname": "Backyard Coveralls"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Hoodie-01-SailorBear_Var01",
-        "rarity": "Rare",
-        "displayname": "Green Bear Sailor Uniform"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Hoodie-02-Lightning_Var01",
-        "rarity": "Common",
-        "displayname": "Lightning Hoodie With Skirt"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-01-Eyes_Var01",
-        "rarity": "Common",
-        "displayname": "Greenie Eyes Tee With Black Pants"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-01-Eyes_Var02",
-        "rarity": "Common",
-        "displayname": "Greenie Eyelash Eyes Tee With Black Pants"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-01-GreenPark_Var01",
-        "rarity": "Common",
-        "displayname": "Green GP Tee With Black Pants"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-01-NumberOne_Var01",
-        "rarity": "Common",
-        "displayname": "#1 Red Tee With Black Pants"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-01-Squirrel_Var01",
-        "rarity": "Common",
-        "displayname": "Squirrel Tee With Black Pants"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-02-Duck_Var01",
-        "rarity": "Common",
-        "displayname": "Duck Tee With Skirt"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-02-Eyes_Var01",
-        "rarity": "Common",
-        "displayname": "Greenie Eyes Tee With Skirt"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-02-Eyes_Var02",
-        "rarity": "Common",
-        "displayname": "Greenie Eyelash Eyes Tee With Skirt"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-02-GreenPark_Var01",
-        "rarity": "Common",
-        "displayname": "Green GP Tee With Skirt"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-02-NumberOne_Var01",
-        "rarity": "Common",
-        "displayname": "#1 Red Tee With Skirt"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-02-Squirrel_Var01",
-        "rarity": "Common",
-        "displayname": "Squirrel Tee With Skirt"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Shirt-02-Wind_Var01",
-        "rarity": "Common",
-        "displayname": "Wind Tee With Skirt"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Body_Wetsuit-01-Scuba_Var01",
-        "rarity": "Epic",
-        "displayname": "GP Wetsuit"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_FaceLower_Scarf-01-Aviator_Var01",
-        "rarity": "Rare",
-        "displayname": "Pink Aviator Scarf"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_FaceUpper_SnorkelMask-01-Scuba_Var01",
-        "rarity": "Legendary",
-        "displayname": "GP Scuba Mask"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_FaceUpper_SunGlasses-01-Foamie_Var01",
-        "rarity": "Rare",
-        "displayname": "Foamie Fan Sunglasses"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_FaceUpper_SunGlasses-01-NumberOne_Var01",
-        "rarity": "Rare",
-        "displayname": "Red #1 Sunglasses"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_FaceUpper_SunGlasses-01-SailorBear_Var01",
-        "rarity": "Rare",
-        "displayname": "Sailor Bear Sunglasses"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Feet_MilitaryBoots-01-Backyard_Var01",
-        "rarity": "Rare",
-        "displayname": "Backyard Soldier Boots"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Feet_SliponShoes-01-Foamie_Var01",
-        "rarity": "Rare",
-        "displayname": "Foamie Fan Shoes"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Feet_SliponShoes-01-SailorBear_Var01",
-        "rarity": "Rare",
-        "displayname": "Green Bear Slip Ons"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Feet_StreetShoes-01-Eyes_Var01",
-        "rarity": "Common",
-        "displayname": "Greenie Eyes Sneakers"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Feet_StreetShoes-01-Eyes_Var02",
-        "rarity": "Common",
-        "displayname": "Greenie Eyelash Eyes Sneakers"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Feet_StreetShoes-01-GreenPark_Var01",
-        "rarity": "Common",
-        "displayname": "Green GP Sneakers"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Feet_StreetShoes-01-NumberOne_Var01",
-        "rarity": "Common",
-        "displayname": "#1 Red Sneakers"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Feet_StreetShoes-01-Squirrel_Var01",
-        "rarity": "Common",
-        "displayname": "Squirrel Sneakers"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Feet_StreetShoes-03-Aviator_Var01",
-        "rarity": "Rare",
-        "displayname": "Pink Aviator Shoes"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Feet_SwimFlippers-01-Scuba_Var01",
-        "rarity": "Legendary",
-        "displayname": "GP Flippers"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Hands_FullGloves-01-Eyes_Var01",
-        "rarity": "Common",
-        "displayname": "Greenie Eyes Gloves"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Hands_FullGloves-01-Eyes_Var02",
-        "rarity": "Common",
-        "displayname": "Greenie Eyelash Eyes Gloves"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Hands_FullGloves-01-GreenPark_Var01",
-        "rarity": "Common",
-        "displayname": "Green GP Gloves"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Hands_FullGloves-01-NumberOne_Var01",
-        "rarity": "Common",
-        "displayname": "#1 Red Gloves"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Hands_FullGloves-01-Squirrel_Var01",
-        "rarity": "Common",
-        "displayname": "Squirrel Gloves"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Head_AviatorCap-01-Aviator_Var01",
-        "rarity": "Rare",
-        "displayname": "Pink Aviator Cap"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Head_BallCap-01-Eyes_Var01",
-        "rarity": "Common",
-        "displayname": "Greenie Eyes Hat"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Head_BallCap-01-Eyes_Var02",
-        "rarity": "Common",
-        "displayname": "Greenie Eyelash Eyes Hat"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Head_BallCap-01-Foamie_Var01",
-        "rarity": "Rare",
-        "displayname": "Foamie Fan Hat"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Head_BallCap-01-GreenPark_Var01",
-        "rarity": "Common",
-        "displayname": "Green GP Hat"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Head_BallCap-01-NumberOne_Var01",
-        "rarity": "Common",
-        "displayname": "#1 Red Hat"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Head_BallCap-01-Squirrel_Var01",
-        "rarity": "Common",
-        "displayname": "Squirrel Hat"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Head_Beanie-01-SailorBear_Var01",
-        "rarity": "Rare",
-        "displayname": "Green Bear Beanie"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Head_BucketHelmet-01-Backyard_Var01",
-        "rarity": "Rare",
-        "displayname": "Bandage Helmet"
-    },
-    {
-        "milestone": "M7",
-        "filename": "GPS_GP_Head_SwimCap-01-Scuba_Var01",
-        "rarity": "Epic",
-        "displayname": "GP Swim Cap"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Body_LCSJersey-05-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Unisex"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Body_LCSJersey-06-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Body_PinnacleBody-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "100T Pinnacle "
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Body_PinnacleBody-02-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "100T Pinnacle (Feminine)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Body_Shirt-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Masculine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Body_Shirt-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Feminine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Feet_PinnacleShoes-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Feet Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Feet_StreetShoes-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Sneaker"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Feet_StreetShoes-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Shoe (Feminine Style)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Head_BallCap-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Hat Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Head_BasicHairClip-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Team Harclip Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Head_PinnacleHat-01-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Unisex / Masculine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_100T_Head_PinnacleHat-02-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Body_LCSJersey-01-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Unisex"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Body_LCSJersey-02-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Body_PinnacleBody-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Body_PinnacleBody-02-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set (Feminine)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Body_Shirt-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Masculine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Body_Shirt-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Feminine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Feet_PinnacleShoes-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Feet Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Feet_StreetShoes-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Sneaker"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Feet_StreetShoes-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Shoe (Feminine Style)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Head_BallCap-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Hat Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Head_BasicHairClip-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Team Harclip Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Head_PinnacleHat-01-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Unisex / Masculine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_C9_Head_PinnacleHat-02-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Body_LCSJersey-03-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Unisex"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Body_LCSJersey-04-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Body_PinnacleBody-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Body_PinnacleBody-02-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set (Feminine)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Body_Shirt-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Masculine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Body_Shirt-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Feminine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Feet_PinnacleShoes-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Feet Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Feet_StreetShoes-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Sneaker"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Feet_StreetShoes-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Shoe (Feminine Style)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Head_BallCap-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Hat Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Head_BasicHairClip-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Team Harclip Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Head_PinnacleHat-01-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Unisex / Masculine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_CLG_Head_PinnacleHat-02-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Body_LCSJersey-01-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Unisex"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Body_LCSJersey-02-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Body_PinnacleBody-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Body_PinnacleBody-02-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set (Feminine)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Body_Shirt-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Masculine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Body_Shirt-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Feminine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Feet_PinnacleShoes-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Feet Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Feet_StreetShoes-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Sneaker"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Feet_StreetShoes-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Shoe (Feminine Style)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Head_BallCap-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Hat Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Head_BasicHairClip-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Team Harclip Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Head_PinnacleHat-01-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Unisex / Masculine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_DIG_Head_PinnacleHat-02-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Body_LCSJersey-03-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Unisex"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Body_LCSJersey-04-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Body_PinnacleBody-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Body_PinnacleBody-02-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set (Feminine)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Body_Shirt-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Masculine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Body_Shirt-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Feminine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Feet_PinnacleShoes-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Feet Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Feet_StreetShoes-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Sneaker"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Feet_StreetShoes-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Shoe (Feminine Style)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Head_BallCap-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Hat Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Head_BasicHairClip-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Team Harclip Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Head_PinnacleHat-01-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Unisex / Masculine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_EG_Head_PinnacleHat-02-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Body_LCSJersey-05-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Unisex"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Body_LCSJersey-06-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Body_PinnacleBody-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Body_PinnacleBody-02-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set (Feminine)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Body_Shirt-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Masculine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Body_Shirt-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Feminine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Feet_PinnacleShoes-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Feet Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Feet_StreetShoes-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Sneaker"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Feet_StreetShoes-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Shoe (Feminine Style)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Head_BallCap-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Hat Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Head_BasicHairClip-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Team Harclip Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Head_PinnacleHat-01-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Unisex / Masculine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_FLY_Head_PinnacleHat-02-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Body_LCSJersey-01-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Unisex"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Body_LCSJersey-02-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Body_PinnacleBody-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Body_PinnacleBody-02-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set (Feminine)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Body_Shirt-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Masculine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Body_Shirt-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Feminine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Feet_PinnacleShoes-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Feet Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Feet_StreetShoes-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Sneaker"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Feet_StreetShoes-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Shoe (Feminine Style)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Head_BallCap-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Hat Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Head_BasicHairClip-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Team Harclip Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Head_PinnacleHat-01-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Unisex / Masculine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_GG_Head_PinnacleHat-02-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Body_LCSJersey-03-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Unisex"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Body_LCSJersey-04-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Body_PinnacleBody-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Body_PinnacleBody-02-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set (Feminine)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Body_Shirt-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Masculine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Body_Shirt-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Feminine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Feet_PinnacleShoes-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Feet Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Feet_StreetShoes-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Sneaker"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Feet_StreetShoes-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Shoe (Feminine Style)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Head_BallCap-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Hat Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Head_BasicHairClip-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Team Harclip Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Head_PinnacleHat-01-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Unisex / Masculine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_IMT_Head_PinnacleHat-02-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Body_LeagueArmor-01-League_Var01",
-        "rarity": "Epic",
-        "displayname": "LCS Armor Male"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Body_LeagueArmor-02-League_Var01",
-        "rarity": "Epic",
-        "displayname": "LCS Armor Female"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Body_Shirt-01-League_Var01",
-        "rarity": "Common",
-        "displayname": "LCS Black Tee Male Style White Logo"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Body_Shirt-01-League_Var02",
-        "rarity": "Common",
-        "displayname": "LCS Black Tee W/ Skirt Female Style White Logo"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Body_Shirt-02-League_Var01",
-        "rarity": "Rare",
-        "displayname": "LCS White Tee Male Style Gold Logo"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Body_Shirt-02-League_Var02",
-        "rarity": "Rare",
-        "displayname": "LCS White Tee W/ Skirt Female Style Gold Logo"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Feet_LCSShoes-01-League_Var02",
-        "rarity": "Rare",
-        "displayname": "LCS Sneakers WHite Gold Logo"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Head_BallCap-01-League_Var01",
-        "rarity": "Common",
-        "displayname": "LCS Hat Black White Logo"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Head_BallCap-01-League_Var02",
-        "rarity": "Rare",
-        "displayname": "LCS Hat White Gold Logo"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Head_BasicHairClip-01-Logo_Var01",
-        "rarity": "Common",
-        "displayname": "LCS Hair Clip Black White Logo"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Head_BasicHairClip-01-Logo_Var02",
-        "rarity": "Rare",
-        "displayname": "LCS Hair Clip White Gold Logo"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Head_LeagueHelmet-01-League_Var01",
-        "rarity": "Epic",
-        "displayname": "LCS Helmet"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Head_LeagueHelmet-02-League_Var01",
-        "rarity": "Epic",
-        "displayname": "LCS Elegant Helm"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LCS_Head_Pinnacle-01-Molten_Var01",
-        "rarity": "Legendary",
-        "displayname": "LCS Hat - Holographic Molten Logo"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LOL_Back_PoroBackpack-01-Poro_Var01",
-        "rarity": "Epic",
-        "displayname": "Poro Snack Backpack"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LOL_Body_PoroSuit-01-Poro_Var01",
-        "rarity": "Epic",
-        "displayname": "Poro Outfit"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LOL_Body_Shirt-01-Kaisa_Var01",
-        "rarity": "Common",
-        "displayname": "Champ Head Tee + Color Scheme Shorts"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LOL_Body_Shirt-01-Olaf_Var01",
-        "rarity": "Common",
-        "displayname": "Champ Head Tee + Color Scheme Shorts"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LOL_Body_Shirt-02-Kaisa_Var01",
-        "rarity": "Common",
-        "displayname": "Champ Head Tee + Color Scheme Skirt"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LOL_Body_Shirt-02-Olaf_Var01",
-        "rarity": "Common",
-        "displayname": "Champ Head Tee + Color Scheme Skirt"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LOL_FaceUpper_PoroGlasses-01-Poro_Var01",
-        "rarity": "Epic",
-        "displayname": "Poro Mask / Glasses"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LOL_Feet_PoroShoes-01-Poro_Var01",
-        "rarity": "Epic",
-        "displayname": "Poro Slippers"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LOL_Hands_PoroGloves-01-Poro_Var01",
-        "rarity": "Epic",
-        "displayname": "Poro Gloves"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_LOL_Head_PoroHat-01-Poro_Var01",
-        "rarity": "Epic",
-        "displayname": "Poro Hat"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Body_LCSJersey-01-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Unisex"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Body_LCSJersey-02-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Body_PinnacleBody-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Body_PinnacleBody-02-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set (Feminine)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Body_Shirt-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Masculine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Body_Shirt-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Feminine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Feet_PinnacleShoes-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Feet Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Feet_StreetShoes-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Sneaker"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Feet_StreetShoes-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Shoe (Feminine Style)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Head_BallCap-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Hat Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Head_BasicHairClip-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Team Harclip Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Head_PinnacleHat-01-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Unisex / Masculine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TL_Head_PinnacleHat-02-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Body_LCSJersey-03-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Unisex"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Body_LCSJersey-04-TeamGear_Var01",
-        "rarity": "Rare",
-        "displayname": "Team Jersey Feminine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Body_PinnacleBody-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Body_PinnacleBody-02-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Body Item For Pinnacle Gear Set (Feminine)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Body_Shirt-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Masculine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Body_Shirt-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Tee Main Color (Feminine Fit)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Feet_PinnacleShoes-01-TeamGear_Var01",
-        "rarity": "Epic",
-        "displayname": "Epic Feet Item For Pinnacle Gear Set"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Feet_StreetShoes-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Sneaker"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Feet_StreetShoes-02-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Shoe (Feminine Style)"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Head_BallCap-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Basic Team Hat Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Head_BasicHairClip-01-TeamGear_Var01",
-        "rarity": "Common",
-        "displayname": "Team Harclip Main Color"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Head_PinnacleHat-01-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Unisex / Masculine"
-    },
-    {
-        "milestone": "M7",
-        "filename": "LCS_TSM_Head_PinnacleHat-02-TeamGear_Var01",
-        "rarity": "Legendary",
-        "displayname": "Legendary Team Hat - Feminine"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_100T_Bodypaint_SkinTone-01_Var01",
-        "rarity": "common",
-        "displayname": "100T Skin Tone"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_100T_Bodypaint_Warpaint-01_Var01",
-        "rarity": "rare",
-        "displayname": "100T Warpaint"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_C9_Bodypaint_SkinTone-01_Var01",
-        "rarity": "common",
-        "displayname": "C9 Skin Tone"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_C9_Bodypaint_Warpaint-01_Var01",
-        "rarity": "rare",
-        "displayname": "C9 Warpaint"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_DIG_Bodypaint_SkinTone-01_Var01",
-        "rarity": "common",
-        "displayname": "DIG Skin Tone"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_DIG_Bodypaint_Warpaint-01_Var01",
-        "rarity": "rare",
-        "displayname": "Dig Warpaint"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_EG_Bodypaint_SkinTone-01_Var01",
-        "rarity": "common",
-        "displayname": "EG Skin Tone"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_EG_Bodypaint_Warpaint-01_Var01",
-        "rarity": "rare",
-        "displayname": "EG Warpaint"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_FLY_Bodypaint_SkinTone-01_Var01",
-        "rarity": "common",
-        "displayname": "FLY Skin Tone"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_FLY_Bodypaint_Warpaint-01_Var01",
-        "rarity": "rare",
-        "displayname": "FLY Warpaint"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_GG_Bodypaint_SkinTone-01_Var01",
-        "rarity": "common",
-        "displayname": "GG Skin Tone"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_GG_Bodypaint_Warpaint-01_Var01",
-        "rarity": "rare",
-        "displayname": "GG Warpaint"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_IMT_Bodypaint_SkinTone-01_Var01",
-        "rarity": "common",
-        "displayname": "IMT Skin Tone"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_IMT_Bodypaint_Warpaint-01_Var01",
-        "rarity": "rare",
-        "displayname": "IMT Warpaint"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_TL_Bodypaint_SkinTone-01_Var01",
-        "rarity": "common",
-        "displayname": "TL Skin Tone"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_TL_Bodypaint_Warpaint-01_Var01",
-        "rarity": "rare",
-        "displayname": "TL Warpaint"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_TSM_Bodypaint_SkinTone-01_Var01",
-        "rarity": "common",
-        "displayname": "TSM Skin Tone"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_TSM_Bodypaint_Warpaint-01_Var01",
-        "rarity": "rare",
-        "displayname": "TSM Warpaint"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_CLG_Bodypaint_SkinTone-01_Var01",
-        "rarity": "common",
-        "displayname": "CLG Skin Tone"
-    },
-    {
-        "milestone": "M4",
-        "filename": "LCS_CLG_Bodypaint_Warpaint-01_Var01",
-        "rarity": "rare",
-        "displayname": "CLG Warpaint"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Hair_DefaultBald-01_Var01",
-        "rarity": "basic",
-        "displayname": "Hair 0"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Hair_Ponytail-01_Var01",
-        "rarity": "basic",
-        "displayname": "Hair 1"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Hair_Ponytail-01_Var02",
-        "rarity": "basic",
-        "displayname": "Hair 2"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Hair_Ponytail-01_Var03",
-        "rarity": "basic",
-        "displayname": "Hair 3"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Teeth_Default-01_Var01",
-        "rarity": "basic",
-        "displayname": "Teeth 1"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Teeth_Default-02_Var01",
-        "rarity": "basic",
-        "displayname": "Teeth 2"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Eyes_Default-01_Var01",
-        "rarity": "basic",
-        "displayname": "Eyes 1"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Eyes_Default-02_Var01",
-        "rarity": "basic",
-        "displayname": "Eyes 2"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Back_FounderPack-01_Var01",
-        "rarity": "epic",
-        "displayname": "Founder's Backpack"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Body_FounderShirt-01-FullSleeve_Var01",
-        "rarity": "epic",
-        "displayname": "Founder's Epic Jersey"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_FaceUpper_FounderGlasses-01_Var01",
-        "rarity": "epic",
-        "displayname": "Founder's Shades"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Feet_FounderShoes-01_Var01",
-        "rarity": "epic",
-        "displayname": "Founder's Shoes"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Hands_FounderGloves-01_Var01",
-        "rarity": "epic",
-        "displayname": "Founder's Gloves"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Head_FounderCap-01_Var01",
-        "rarity": "epic",
-        "displayname": "Founder's Hat"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Body_VendorBlazer-01_Var01",
-        "rarity": "basic",
-        "displayname": "Vendor Coat"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Feet_VendorShoes-01_Var01",
-        "rarity": "basic",
-        "displayname": "Vendor Slippers"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Head_VendorHair-01_Var01",
-        "rarity": "basic",
-        "displayname": "Vendor Hair"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Body_Hoodie-02-HalfSleeve-Hood-Lightning_Var01",
-        "rarity": "common",
-        "displayname": "Striker Hoodie"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Feet_StreetShoes-02-Half-Lighting_Var01",
-        "rarity": "common",
-        "displayname": "Striker Shoes"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Hands_Gloves-02-Half-Lighting_Var01",
-        "rarity": "common",
-        "displayname": "Striker Gloves"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Head_BallCap-02-Lighting_Var01",
-        "rarity": "common",
-        "displayname": "Striker Hat"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Body_Shirt-01-HalfSleeve-Duck_Var01",
-        "rarity": "common",
-        "displayname": "Duck Shirt"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Feet_StreetShoes-01-Half-Duck_Var01",
-        "rarity": "common",
-        "displayname": "Duck Shoes"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Hands_Gloves-01-Ful-Duck_Var01",
-        "rarity": "common",
-        "displayname": "Duck Gloves"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Head_BallCap-01-Duck_Var01",
-        "rarity": "common",
-        "displayname": "Duck Hat"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Body_Shirt-01-HalfSleeve-Wind_Var01",
-        "rarity": "common",
-        "displayname": "Swift Shirt"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Feet_StreetShoes-01-Half-Wind_Var01",
-        "rarity": "common",
-        "displayname": "Swift Shoes"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Hands_Gloves-01-Full-Wind_Var01",
-        "rarity": "common",
-        "displayname": "Swift Gloves"
-    },
-    {
-        "milestone": "M4",
-        "filename": "GPS_GP_Head_BallCap-01-Wind_Var01",
-        "rarity": "common",
-        "displayname": "Swift Hat"
-    },
-    {
-        "milestone": "M5",
-        "filename": "GPS_GP_Body_FounderJersey-01-LCS_Var01",
-        "rarity": "rare",
-        "displayname": "Founder's Jersey"
+        "data": {
+            "address": "GPS_GP_Back_BasicBackpack-01-GreenPark_Var01",
+            "league": "gps",
+            "name": "Green GP Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Back_BasicBackpack-01-NumberOne_Var01",
+            "league": "gps",
+            "name": "#1 Red Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Back_BearWand-01-SailorBear_Var01",
+            "league": "gps",
+            "name": "Sailor Bear Wand",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Back_OxygenTank-01-Scuba_Var01",
+            "league": "gps",
+            "name": "GP Scuba Tank",
+            "rarity": "epic",
+            "slot": "back",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Back_Parachute-01-Aviator_Var01",
+            "league": "gps",
+            "name": "Pink Aviator Parachute",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_BasicTee-01-Foamie_Var01",
+            "league": "gps",
+            "name": "Foamie Fan Tee",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_BomberJacket-01-Aviator_Var01",
+            "league": "gps",
+            "name": "Pink Aviator Outfit",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Coveralls-01-Backyard_Var01",
+            "league": "gps",
+            "name": "Backyard Coveralls",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Hoodie-01-SailorBear_Var01",
+            "league": "gps",
+            "name": "Green Bear Sailor Uniform",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Hoodie-02-Lightning_Var01",
+            "league": "gps",
+            "name": "Lightning Hoodie With Skirt",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-01-Eyes_Var01",
+            "league": "gps",
+            "name": "Greenie Eyes Tee With Black Pants",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-01-Eyes_Var02",
+            "league": "gps",
+            "name": "Greenie Eyelash Eyes Tee With Black Pants",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-01-GreenPark_Var01",
+            "league": "gps",
+            "name": "Green GP Tee With Black Pants",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-01-NumberOne_Var01",
+            "league": "gps",
+            "name": "#1 Red Tee With Black Pants",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-01-Squirrel_Var01",
+            "league": "gps",
+            "name": "Squirrel Tee With Black Pants",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-02-Duck_Var01",
+            "league": "gps",
+            "name": "Duck Tee With Skirt",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-02-Eyes_Var01",
+            "league": "gps",
+            "name": "Greenie Eyes Tee With Skirt",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-02-Eyes_Var02",
+            "league": "gps",
+            "name": "Greenie Eyelash Eyes Tee With Skirt",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-02-GreenPark_Var01",
+            "league": "gps",
+            "name": "Green GP Tee With Skirt",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-02-NumberOne_Var01",
+            "league": "gps",
+            "name": "#1 Red Tee With Skirt",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-02-Squirrel_Var01",
+            "league": "gps",
+            "name": "Squirrel Tee With Skirt",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-02-Wind_Var01",
+            "league": "gps",
+            "name": "Wind Tee With Skirt",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Wetsuit-01-Scuba_Var01",
+            "league": "gps",
+            "name": "GP Wetsuit",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceLower_Scarf-01-Aviator_Var01",
+            "league": "gps",
+            "name": "Pink Aviator Scarf",
+            "rarity": "rare",
+            "slot": "faceLower",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceUpper_SnorkelMask-01-Scuba_Var01",
+            "league": "gps",
+            "name": "GP Scuba Mask",
+            "rarity": "legendary",
+            "slot": "faceUpper",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceUpper_SunGlasses-01-Foamie_Var01",
+            "league": "gps",
+            "name": "Foamie Fan Sunglasses",
+            "rarity": "rare",
+            "slot": "faceUpper",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceUpper_SunGlasses-01-NumberOne_Var01",
+            "league": "gps",
+            "name": "Red #1 Sunglasses",
+            "rarity": "rare",
+            "slot": "faceUpper",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceUpper_SunGlasses-01-SailorBear_Var01",
+            "league": "gps",
+            "name": "Sailor Bear Sunglasses",
+            "rarity": "rare",
+            "slot": "faceUpper",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_MilitaryBoots-01-Backyard_Var01",
+            "league": "gps",
+            "name": "Backyard Soldier Boots",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_SliponShoes-01-Foamie_Var01",
+            "league": "gps",
+            "name": "Foamie Fan Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_SliponShoes-01-SailorBear_Var01",
+            "league": "gps",
+            "name": "Green Bear Slip Ons",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_StreetShoes-01-Eyes_Var01",
+            "league": "gps",
+            "name": "Greenie Eyes Sneakers",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_StreetShoes-01-Eyes_Var02",
+            "league": "gps",
+            "name": "Greenie Eyelash Eyes Sneakers",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_StreetShoes-01-GreenPark_Var01",
+            "league": "gps",
+            "name": "Green GP Sneakers",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_StreetShoes-01-NumberOne_Var01",
+            "league": "gps",
+            "name": "#1 Red Sneakers",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_StreetShoes-01-Squirrel_Var01",
+            "league": "gps",
+            "name": "Squirrel Sneakers",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_StreetShoes-03-Aviator_Var01",
+            "league": "gps",
+            "name": "Pink Aviator Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_SwimFlippers-01-Scuba_Var01",
+            "league": "gps",
+            "name": "GP Flippers",
+            "rarity": "legendary",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_FullGloves-01-Eyes_Var01",
+            "league": "gps",
+            "name": "Greenie Eyes Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_FullGloves-01-Eyes_Var02",
+            "league": "gps",
+            "name": "Greenie Eyelash Eyes Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_FullGloves-01-GreenPark_Var01",
+            "league": "gps",
+            "name": "Green GP Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_FullGloves-01-NumberOne_Var01",
+            "league": "gps",
+            "name": "#1 Red Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_FullGloves-01-Squirrel_Var01",
+            "league": "gps",
+            "name": "Squirrel Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_AviatorCap-01-Aviator_Var01",
+            "league": "gps",
+            "name": "Pink Aviator Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BallCap-01-Eyes_Var01",
+            "league": "gps",
+            "name": "Greenie Eyes Hat",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BallCap-01-Eyes_Var02",
+            "league": "gps",
+            "name": "Greenie Eyelash Eyes Hat",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BallCap-01-Foamie_Var01",
+            "league": "gps",
+            "name": "Foamie Fan Hat",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BallCap-01-GreenPark_Var01",
+            "league": "gps",
+            "name": "Green GP Hat",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BallCap-01-NumberOne_Var01",
+            "league": "gps",
+            "name": "#1 Red Hat",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BallCap-01-Squirrel_Var01",
+            "league": "gps",
+            "name": "Squirrel Hat",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_Beanie-01-SailorBear_Var01",
+            "league": "gps",
+            "name": "Green Bear Beanie",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BucketHelmet-01-Backyard_Var01",
+            "league": "gps",
+            "name": "Bandage Helmet",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_SwimCap-01-Scuba_Var01",
+            "league": "gps",
+            "name": "GP Swim Cap",
+            "rarity": "epic",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Body_LCSJersey-05-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Unisex",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Body_LCSJersey-06-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Feminine",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Body_PinnacleBody-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "100T Pinnacle ",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Body_PinnacleBody-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "100T Pinnacle (Feminine)",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Body_Shirt-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Masculine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Body_Shirt-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Feminine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Feet Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Feet_StreetShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Sneaker",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Feet_StreetShoes-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Shoe (Feminine Style)",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Head_BallCap-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Hat Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Head_BasicHairClip-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Harclip Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Head_PinnacleHat-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Unisex / Masculine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Head_PinnacleHat-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Feminine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Body_LCSJersey-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Unisex",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Body_LCSJersey-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Feminine",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Body_PinnacleBody-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Body_PinnacleBody-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Body_Shirt-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Masculine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Body_Shirt-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Feminine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Feet Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Feet_StreetShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Sneaker",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Feet_StreetShoes-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Shoe (Feminine Style)",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Head_BallCap-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Hat Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Head_BasicHairClip-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Harclip Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Head_PinnacleHat-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Unisex / Masculine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Head_PinnacleHat-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Feminine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Body_LCSJersey-03-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Unisex",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Body_LCSJersey-04-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Feminine",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Body_PinnacleBody-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Body_PinnacleBody-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Body_Shirt-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Masculine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Body_Shirt-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Feminine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Feet Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Feet_StreetShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Sneaker",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Feet_StreetShoes-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Shoe (Feminine Style)",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Head_BallCap-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Hat Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Head_BasicHairClip-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Harclip Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Head_PinnacleHat-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Unisex / Masculine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Head_PinnacleHat-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Feminine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Body_LCSJersey-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Unisex",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Body_LCSJersey-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Feminine",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Body_PinnacleBody-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Body_PinnacleBody-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Body_Shirt-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Masculine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Body_Shirt-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Feminine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Feet Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Feet_StreetShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Sneaker",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Feet_StreetShoes-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Shoe (Feminine Style)",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Head_BallCap-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Hat Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Head_BasicHairClip-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Harclip Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Head_PinnacleHat-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Unisex / Masculine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Head_PinnacleHat-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Feminine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Body_LCSJersey-03-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Unisex",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Body_LCSJersey-04-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Feminine",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Body_PinnacleBody-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Body_PinnacleBody-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Body_Shirt-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Masculine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Body_Shirt-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Feminine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Feet Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Feet_StreetShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Sneaker",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Feet_StreetShoes-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Shoe (Feminine Style)",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Head_BallCap-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Hat Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Head_BasicHairClip-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Harclip Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Head_PinnacleHat-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Unisex / Masculine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Head_PinnacleHat-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Feminine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Body_LCSJersey-05-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Unisex",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Body_LCSJersey-06-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Feminine",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Body_PinnacleBody-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Body_PinnacleBody-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Body_Shirt-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Masculine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Body_Shirt-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Feminine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Feet Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Feet_StreetShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Sneaker",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Feet_StreetShoes-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Shoe (Feminine Style)",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Head_BallCap-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Hat Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Head_BasicHairClip-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Harclip Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Head_PinnacleHat-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Unisex / Masculine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Head_PinnacleHat-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Feminine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Body_LCSJersey-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Unisex",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Body_LCSJersey-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Feminine",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Body_PinnacleBody-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Body_PinnacleBody-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Body_Shirt-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Masculine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Body_Shirt-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Feminine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Feet Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Feet_StreetShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Sneaker",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Feet_StreetShoes-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Shoe (Feminine Style)",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Head_BallCap-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Hat Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Head_BasicHairClip-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Harclip Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Head_PinnacleHat-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Unisex / Masculine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Head_PinnacleHat-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Feminine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Body_LCSJersey-03-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Unisex",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Body_LCSJersey-04-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Feminine",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Body_PinnacleBody-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Body_PinnacleBody-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Body_Shirt-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Masculine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Body_Shirt-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Feminine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Feet Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Feet_StreetShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Sneaker",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Feet_StreetShoes-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Shoe (Feminine Style)",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Head_BallCap-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Hat Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Head_BasicHairClip-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Harclip Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Head_PinnacleHat-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Unisex / Masculine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Head_PinnacleHat-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Feminine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Body_LCSJersey-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Unisex",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Body_LCSJersey-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Feminine",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Body_PinnacleBody-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Body_PinnacleBody-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Body_Shirt-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Masculine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Body_Shirt-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Feminine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Feet Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Feet_StreetShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Sneaker",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Feet_StreetShoes-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Shoe (Feminine Style)",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Head_BallCap-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Hat Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Head_BasicHairClip-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Harclip Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Head_PinnacleHat-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Unisex / Masculine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Head_PinnacleHat-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Feminine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Body_LCSJersey-03-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Unisex",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Body_LCSJersey-04-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Jersey Feminine",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Body_PinnacleBody-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Body_PinnacleBody-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Body_Shirt-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Masculine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Body_Shirt-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Tee Main Color (Feminine Fit)",
+            "rarity": "common",
+            "slot": "body",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Epic Feet Item For Pinnacle Gear Set",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Feet_StreetShoes-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Sneaker",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Feet_StreetShoes-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Shoe (Feminine Style)",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Head_BallCap-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Basic Team Hat Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Head_BasicHairClip-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Team Harclip Main Color",
+            "rarity": "common",
+            "slot": "head",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Head_PinnacleHat-01-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Unisex / Masculine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Head_PinnacleHat-02-TeamGear_Var01",
+            "league": "lcs",
+            "name": "Legendary Team Hat - Feminine",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Bodypaint_SkinTone-01_Var01",
+            "league": "lcs",
+            "name": "100T Skin Tone",
+            "rarity": "common",
+            "slot": "bodypaint",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Bodypaint_Warpaint-01_Var01",
+            "league": "lcs",
+            "name": "100T Warpaint",
+            "rarity": "rare",
+            "slot": "bodypaint",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Bodypaint_SkinTone-01_Var01",
+            "league": "lcs",
+            "name": "C9 Skin Tone",
+            "rarity": "common",
+            "slot": "bodypaint",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Bodypaint_Warpaint-01_Var01",
+            "league": "lcs",
+            "name": "C9 Warpaint",
+            "rarity": "rare",
+            "slot": "bodypaint",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Bodypaint_SkinTone-01_Var01",
+            "league": "lcs",
+            "name": "DIG Skin Tone",
+            "rarity": "common",
+            "slot": "bodypaint",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Bodypaint_Warpaint-01_Var01",
+            "league": "lcs",
+            "name": "Dig Warpaint",
+            "rarity": "rare",
+            "slot": "bodypaint",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Bodypaint_SkinTone-01_Var01",
+            "league": "lcs",
+            "name": "EG Skin Tone",
+            "rarity": "common",
+            "slot": "bodypaint",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Bodypaint_Warpaint-01_Var01",
+            "league": "lcs",
+            "name": "EG Warpaint",
+            "rarity": "rare",
+            "slot": "bodypaint",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Bodypaint_SkinTone-01_Var01",
+            "league": "lcs",
+            "name": "FLY Skin Tone",
+            "rarity": "common",
+            "slot": "bodypaint",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Bodypaint_Warpaint-01_Var01",
+            "league": "lcs",
+            "name": "FLY Warpaint",
+            "rarity": "rare",
+            "slot": "bodypaint",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Bodypaint_SkinTone-01_Var01",
+            "league": "lcs",
+            "name": "GG Skin Tone",
+            "rarity": "common",
+            "slot": "bodypaint",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Bodypaint_Warpaint-01_Var01",
+            "league": "lcs",
+            "name": "GG Warpaint",
+            "rarity": "rare",
+            "slot": "bodypaint",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Bodypaint_SkinTone-01_Var01",
+            "league": "lcs",
+            "name": "IMT Skin Tone",
+            "rarity": "common",
+            "slot": "bodypaint",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Bodypaint_Warpaint-01_Var01",
+            "league": "lcs",
+            "name": "IMT Warpaint",
+            "rarity": "rare",
+            "slot": "bodypaint",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Bodypaint_SkinTone-01_Var01",
+            "league": "lcs",
+            "name": "TL Skin Tone",
+            "rarity": "common",
+            "slot": "bodypaint",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Bodypaint_Warpaint-01_Var01",
+            "league": "lcs",
+            "name": "TL Warpaint",
+            "rarity": "rare",
+            "slot": "bodypaint",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Bodypaint_SkinTone-01_Var01",
+            "league": "lcs",
+            "name": "TSM Skin Tone",
+            "rarity": "common",
+            "slot": "bodypaint",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Bodypaint_Warpaint-01_Var01",
+            "league": "lcs",
+            "name": "TSM Warpaint",
+            "rarity": "rare",
+            "slot": "bodypaint",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Bodypaint_SkinTone-01_Var01",
+            "league": "lcs",
+            "name": "CLG Skin Tone",
+            "rarity": "common",
+            "slot": "bodypaint",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Bodypaint_Warpaint-01_Var01",
+            "league": "lcs",
+            "name": "CLG Warpaint",
+            "rarity": "rare",
+            "slot": "bodypaint",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hair_DefaultBald-01_Var01",
+            "league": "gps",
+            "name": "Hair 0",
+            "rarity": "basic",
+            "slot": "hair",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hair_Ponytail-01_Var01",
+            "league": "gps",
+            "name": "Hair 1",
+            "rarity": "basic",
+            "slot": "hair",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hair_Ponytail-01_Var02",
+            "league": "gps",
+            "name": "Hair 2",
+            "rarity": "basic",
+            "slot": "hair",
+            "team": "GP",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hair_Ponytail-01_Var03",
+            "league": "gps",
+            "name": "Hair 3",
+            "rarity": "basic",
+            "slot": "hair",
+            "team": "GP",
+            "var": "Var03"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Teeth_Default-01_Var01",
+            "league": "gps",
+            "name": "Teeth 1",
+            "rarity": "basic",
+            "slot": "teeth",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Teeth_Default-02_Var01",
+            "league": "gps",
+            "name": "Teeth 2",
+            "rarity": "basic",
+            "slot": "teeth",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Eyes_Default-01_Var01",
+            "league": "gps",
+            "name": "Eyes 1",
+            "rarity": "basic",
+            "slot": "eyes",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Eyes_Default-02_Var01",
+            "league": "gps",
+            "name": "Eyes 2",
+            "rarity": "basic",
+            "slot": "eyes",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Back_FounderPack-01_Var01",
+            "league": "gps",
+            "name": "Founder's Backpack",
+            "rarity": "epic",
+            "slot": "back",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_FounderShirt-01-FullSleeve_Var01",
+            "league": "gps",
+            "name": "Founder's Epic Jersey",
+            "rarity": "epic",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceUpper_FounderGlasses-01_Var01",
+            "league": "gps",
+            "name": "Founder's Shades",
+            "rarity": "epic",
+            "slot": "faceUpper",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_FounderShoes-01_Var01",
+            "league": "gps",
+            "name": "Founder's Shoes",
+            "rarity": "epic",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_FounderGloves-01_Var01",
+            "league": "gps",
+            "name": "Founder's Gloves",
+            "rarity": "epic",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_FounderCap-01_Var01",
+            "league": "gps",
+            "name": "Founder's Hat",
+            "rarity": "epic",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_VendorBlazer-01_Var01",
+            "league": "gps",
+            "name": "Vendor Coat",
+            "rarity": "basic",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_VendorShoes-01_Var01",
+            "league": "gps",
+            "name": "Vendor Slippers",
+            "rarity": "basic",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_VendorHair-01_Var01",
+            "league": "gps",
+            "name": "Vendor Hair",
+            "rarity": "basic",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Hoodie-02-HalfSleeve-Hood-Lightning_Var01",
+            "league": "gps",
+            "name": "Striker Hoodie",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_StreetShoes-02-Half-Lighting_Var01",
+            "league": "gps",
+            "name": "Striker Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_Gloves-02-Half-Lighting_Var01",
+            "league": "gps",
+            "name": "Striker Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BallCap-02-Lighting_Var01",
+            "league": "gps",
+            "name": "Striker Hat",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-01-HalfSleeve-Duck_Var01",
+            "league": "gps",
+            "name": "Duck Shirt",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_StreetShoes-01-Half-Duck_Var01",
+            "league": "gps",
+            "name": "Duck Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_Gloves-01-Ful-Duck_Var01",
+            "league": "gps",
+            "name": "Duck Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BallCap-01-Duck_Var01",
+            "league": "gps",
+            "name": "Duck Hat",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirt-01-HalfSleeve-Wind_Var01",
+            "league": "gps",
+            "name": "Swift Shirt",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_StreetShoes-01-Half-Wind_Var01",
+            "league": "gps",
+            "name": "Swift Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_Gloves-01-Full-Wind_Var01",
+            "league": "gps",
+            "name": "Swift Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BallCap-01-Wind_Var01",
+            "league": "gps",
+            "name": "Swift Hat",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_FounderJersey-01-LCS_Var01",
+            "league": "gps",
+            "name": "Founder's Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
     }
 ]
