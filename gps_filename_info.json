@@ -2,6 +2,7 @@
     {
         "data": {
             "address": "GPS_GP_Back_BasicBackpack-01-GreenPark_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Green GP Backpack",
@@ -14,6 +15,7 @@
     {
         "data": {
             "address": "GPS_GP_Back_BasicBackpack-01-NumberOne_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "#1 Red Backpack",
@@ -26,6 +28,7 @@
     {
         "data": {
             "address": "GPS_GP_Back_BearWand-01-SailorBear_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Sailor Bear Wand",
@@ -38,6 +41,7 @@
     {
         "data": {
             "address": "GPS_GP_Back_OxygenTank-01-Scuba_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "GP Scuba Tank",
@@ -50,6 +54,7 @@
     {
         "data": {
             "address": "GPS_GP_Back_Parachute-01-Aviator_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Pink Aviator Parachute",
@@ -62,6 +67,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_BasicTee-01-Foamie_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Foamie Fan Tee",
@@ -74,6 +80,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_BomberJacket-01-Aviator_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Pink Aviator Outfit",
@@ -86,6 +93,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Coveralls-01-Backyard_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Backyard Coveralls",
@@ -98,6 +106,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Hoodie-01-SailorBear_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Green Bear Sailor Uniform",
@@ -110,6 +119,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Hoodie-02-Lightning_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Lightning Hoodie With Skirt",
@@ -122,6 +132,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-01-Eyes_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Greenie Eyes Tee With Black Pants",
@@ -134,6 +145,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-01-Eyes_Var02",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Greenie Eyelash Eyes Tee With Black Pants",
@@ -146,6 +158,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-01-GreenPark_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Green GP Tee With Black Pants",
@@ -158,6 +171,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-01-NumberOne_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "#1 Red Tee With Black Pants",
@@ -170,6 +184,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-01-Squirrel_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Squirrel Tee With Black Pants",
@@ -182,6 +197,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-02-Duck_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Duck Tee With Skirt",
@@ -194,6 +210,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-02-Eyes_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Greenie Eyes Tee With Skirt",
@@ -206,6 +223,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-02-Eyes_Var02",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Greenie Eyelash Eyes Tee With Skirt",
@@ -218,6 +236,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-02-GreenPark_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Green GP Tee With Skirt",
@@ -230,6 +249,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-02-NumberOne_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "#1 Red Tee With Skirt",
@@ -242,6 +262,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-02-Squirrel_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Squirrel Tee With Skirt",
@@ -254,6 +275,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-02-Wind_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Wind Tee With Skirt",
@@ -266,6 +288,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Wetsuit-01-Scuba_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "GP Wetsuit",
@@ -278,6 +301,7 @@
     {
         "data": {
             "address": "GPS_GP_FaceLower_Scarf-01-Aviator_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Pink Aviator Scarf",
@@ -290,6 +314,7 @@
     {
         "data": {
             "address": "GPS_GP_FaceUpper_SnorkelMask-01-Scuba_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "GP Scuba Mask",
@@ -302,6 +327,7 @@
     {
         "data": {
             "address": "GPS_GP_FaceUpper_SunGlasses-01-Foamie_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Foamie Fan Sunglasses",
@@ -314,6 +340,7 @@
     {
         "data": {
             "address": "GPS_GP_FaceUpper_SunGlasses-01-NumberOne_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Red #1 Sunglasses",
@@ -326,6 +353,7 @@
     {
         "data": {
             "address": "GPS_GP_FaceUpper_SunGlasses-01-SailorBear_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Sailor Bear Sunglasses",
@@ -338,6 +366,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_MilitaryBoots-01-Backyard_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Backyard Soldier Boots",
@@ -350,6 +379,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_SliponShoes-01-Foamie_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Foamie Fan Shoes",
@@ -362,6 +392,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_SliponShoes-01-SailorBear_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Green Bear Slip Ons",
@@ -374,6 +405,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_StreetShoes-01-Eyes_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Greenie Eyes Sneakers",
@@ -386,6 +418,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_StreetShoes-01-Eyes_Var02",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Greenie Eyelash Eyes Sneakers",
@@ -398,6 +431,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_StreetShoes-01-GreenPark_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Green GP Sneakers",
@@ -410,6 +444,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_StreetShoes-01-NumberOne_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "#1 Red Sneakers",
@@ -422,6 +457,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_StreetShoes-01-Squirrel_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Squirrel Sneakers",
@@ -434,6 +470,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_StreetShoes-03-Aviator_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Pink Aviator Shoes",
@@ -446,6 +483,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_SwimFlippers-01-Scuba_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "GP Flippers",
@@ -458,6 +496,7 @@
     {
         "data": {
             "address": "GPS_GP_Hands_FullGloves-01-Eyes_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Greenie Eyes Gloves",
@@ -470,6 +509,7 @@
     {
         "data": {
             "address": "GPS_GP_Hands_FullGloves-01-Eyes_Var02",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Greenie Eyelash Eyes Gloves",
@@ -482,6 +522,7 @@
     {
         "data": {
             "address": "GPS_GP_Hands_FullGloves-01-GreenPark_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Green GP Gloves",
@@ -494,6 +535,7 @@
     {
         "data": {
             "address": "GPS_GP_Hands_FullGloves-01-NumberOne_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "#1 Red Gloves",
@@ -506,6 +548,7 @@
     {
         "data": {
             "address": "GPS_GP_Hands_FullGloves-01-Squirrel_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Squirrel Gloves",
@@ -518,6 +561,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_AviatorCap-01-Aviator_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Pink Aviator Cap",
@@ -530,6 +574,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_BallCap-01-Eyes_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Greenie Eyes Hat",
@@ -542,6 +587,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_BallCap-01-Eyes_Var02",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Greenie Eyelash Eyes Hat",
@@ -554,6 +600,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_BallCap-01-Foamie_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Foamie Fan Hat",
@@ -566,6 +613,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_BallCap-01-GreenPark_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Green GP Hat",
@@ -578,6 +626,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_BallCap-01-NumberOne_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "#1 Red Hat",
@@ -590,6 +639,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_BallCap-01-Squirrel_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Squirrel Hat",
@@ -602,6 +652,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_Beanie-01-SailorBear_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Green Bear Beanie",
@@ -614,6 +665,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_BucketHelmet-01-Backyard_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "Bandage Helmet",
@@ -626,6 +678,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_SwimCap-01-Scuba_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M7",
             "name": "GP Swim Cap",
@@ -638,6 +691,7 @@
     {
         "data": {
             "address": "LCS_100T_Body_LCSJersey-05-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Unisex",
@@ -650,6 +704,7 @@
     {
         "data": {
             "address": "LCS_100T_Body_LCSJersey-06-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Feminine",
@@ -662,6 +717,7 @@
     {
         "data": {
             "address": "LCS_100T_Body_PinnacleBody-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "100T Pinnacle ",
@@ -674,6 +730,7 @@
     {
         "data": {
             "address": "LCS_100T_Body_PinnacleBody-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "100T Pinnacle (Feminine)",
@@ -686,6 +743,7 @@
     {
         "data": {
             "address": "LCS_100T_Body_Shirt-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Masculine Fit)",
@@ -698,6 +756,7 @@
     {
         "data": {
             "address": "LCS_100T_Body_Shirt-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Feminine Fit)",
@@ -710,6 +769,7 @@
     {
         "data": {
             "address": "LCS_100T_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Feet Item For Pinnacle Gear Set",
@@ -722,6 +782,7 @@
     {
         "data": {
             "address": "LCS_100T_Feet_StreetShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Sneaker",
@@ -734,6 +795,7 @@
     {
         "data": {
             "address": "LCS_100T_Feet_StreetShoes-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Shoe (Feminine Style)",
@@ -746,6 +808,7 @@
     {
         "data": {
             "address": "LCS_100T_Head_BallCap-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Hat Main Color",
@@ -758,6 +821,7 @@
     {
         "data": {
             "address": "LCS_100T_Head_BasicHairClip-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Harclip Main Color",
@@ -770,6 +834,7 @@
     {
         "data": {
             "address": "LCS_100T_Head_PinnacleHat-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Unisex / Masculine",
@@ -782,6 +847,7 @@
     {
         "data": {
             "address": "LCS_100T_Head_PinnacleHat-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Feminine",
@@ -794,6 +860,7 @@
     {
         "data": {
             "address": "LCS_C9_Body_LCSJersey-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Unisex",
@@ -806,6 +873,7 @@
     {
         "data": {
             "address": "LCS_C9_Body_LCSJersey-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Feminine",
@@ -818,6 +886,7 @@
     {
         "data": {
             "address": "LCS_C9_Body_PinnacleBody-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set",
@@ -830,6 +899,7 @@
     {
         "data": {
             "address": "LCS_C9_Body_PinnacleBody-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
@@ -842,6 +912,7 @@
     {
         "data": {
             "address": "LCS_C9_Body_Shirt-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Masculine Fit)",
@@ -854,6 +925,7 @@
     {
         "data": {
             "address": "LCS_C9_Body_Shirt-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Feminine Fit)",
@@ -866,6 +938,7 @@
     {
         "data": {
             "address": "LCS_C9_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Feet Item For Pinnacle Gear Set",
@@ -878,6 +951,7 @@
     {
         "data": {
             "address": "LCS_C9_Feet_StreetShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Sneaker",
@@ -890,6 +964,7 @@
     {
         "data": {
             "address": "LCS_C9_Feet_StreetShoes-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Shoe (Feminine Style)",
@@ -902,6 +977,7 @@
     {
         "data": {
             "address": "LCS_C9_Head_BallCap-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Hat Main Color",
@@ -914,6 +990,7 @@
     {
         "data": {
             "address": "LCS_C9_Head_BasicHairClip-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Harclip Main Color",
@@ -926,6 +1003,7 @@
     {
         "data": {
             "address": "LCS_C9_Head_PinnacleHat-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Unisex / Masculine",
@@ -938,6 +1016,7 @@
     {
         "data": {
             "address": "LCS_C9_Head_PinnacleHat-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Feminine",
@@ -950,6 +1029,7 @@
     {
         "data": {
             "address": "LCS_CLG_Body_LCSJersey-03-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Unisex",
@@ -962,6 +1042,7 @@
     {
         "data": {
             "address": "LCS_CLG_Body_LCSJersey-04-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Feminine",
@@ -974,6 +1055,7 @@
     {
         "data": {
             "address": "LCS_CLG_Body_PinnacleBody-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set",
@@ -986,6 +1068,7 @@
     {
         "data": {
             "address": "LCS_CLG_Body_PinnacleBody-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
@@ -998,6 +1081,7 @@
     {
         "data": {
             "address": "LCS_CLG_Body_Shirt-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Masculine Fit)",
@@ -1010,6 +1094,7 @@
     {
         "data": {
             "address": "LCS_CLG_Body_Shirt-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Feminine Fit)",
@@ -1022,6 +1107,7 @@
     {
         "data": {
             "address": "LCS_CLG_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Feet Item For Pinnacle Gear Set",
@@ -1034,6 +1120,7 @@
     {
         "data": {
             "address": "LCS_CLG_Feet_StreetShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Sneaker",
@@ -1046,6 +1133,7 @@
     {
         "data": {
             "address": "LCS_CLG_Feet_StreetShoes-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Shoe (Feminine Style)",
@@ -1058,6 +1146,7 @@
     {
         "data": {
             "address": "LCS_CLG_Head_BallCap-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Hat Main Color",
@@ -1070,6 +1159,7 @@
     {
         "data": {
             "address": "LCS_CLG_Head_BasicHairClip-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Harclip Main Color",
@@ -1082,6 +1172,7 @@
     {
         "data": {
             "address": "LCS_CLG_Head_PinnacleHat-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Unisex / Masculine",
@@ -1094,6 +1185,7 @@
     {
         "data": {
             "address": "LCS_CLG_Head_PinnacleHat-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Feminine",
@@ -1106,6 +1198,7 @@
     {
         "data": {
             "address": "LCS_DIG_Body_LCSJersey-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Unisex",
@@ -1118,6 +1211,7 @@
     {
         "data": {
             "address": "LCS_DIG_Body_LCSJersey-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Feminine",
@@ -1130,6 +1224,7 @@
     {
         "data": {
             "address": "LCS_DIG_Body_PinnacleBody-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set",
@@ -1142,6 +1237,7 @@
     {
         "data": {
             "address": "LCS_DIG_Body_PinnacleBody-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
@@ -1154,6 +1250,7 @@
     {
         "data": {
             "address": "LCS_DIG_Body_Shirt-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Masculine Fit)",
@@ -1166,6 +1263,7 @@
     {
         "data": {
             "address": "LCS_DIG_Body_Shirt-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Feminine Fit)",
@@ -1178,6 +1276,7 @@
     {
         "data": {
             "address": "LCS_DIG_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Feet Item For Pinnacle Gear Set",
@@ -1190,6 +1289,7 @@
     {
         "data": {
             "address": "LCS_DIG_Feet_StreetShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Sneaker",
@@ -1202,6 +1302,7 @@
     {
         "data": {
             "address": "LCS_DIG_Feet_StreetShoes-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Shoe (Feminine Style)",
@@ -1214,6 +1315,7 @@
     {
         "data": {
             "address": "LCS_DIG_Head_BallCap-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Hat Main Color",
@@ -1226,6 +1328,7 @@
     {
         "data": {
             "address": "LCS_DIG_Head_BasicHairClip-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Harclip Main Color",
@@ -1238,6 +1341,7 @@
     {
         "data": {
             "address": "LCS_DIG_Head_PinnacleHat-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Unisex / Masculine",
@@ -1250,6 +1354,7 @@
     {
         "data": {
             "address": "LCS_DIG_Head_PinnacleHat-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Feminine",
@@ -1262,6 +1367,7 @@
     {
         "data": {
             "address": "LCS_EG_Body_LCSJersey-03-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Unisex",
@@ -1274,6 +1380,7 @@
     {
         "data": {
             "address": "LCS_EG_Body_LCSJersey-04-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Feminine",
@@ -1286,6 +1393,7 @@
     {
         "data": {
             "address": "LCS_EG_Body_PinnacleBody-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set",
@@ -1298,6 +1406,7 @@
     {
         "data": {
             "address": "LCS_EG_Body_PinnacleBody-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
@@ -1310,6 +1419,7 @@
     {
         "data": {
             "address": "LCS_EG_Body_Shirt-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Masculine Fit)",
@@ -1322,6 +1432,7 @@
     {
         "data": {
             "address": "LCS_EG_Body_Shirt-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Feminine Fit)",
@@ -1334,6 +1445,7 @@
     {
         "data": {
             "address": "LCS_EG_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Feet Item For Pinnacle Gear Set",
@@ -1346,6 +1458,7 @@
     {
         "data": {
             "address": "LCS_EG_Feet_StreetShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Sneaker",
@@ -1358,6 +1471,7 @@
     {
         "data": {
             "address": "LCS_EG_Feet_StreetShoes-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Shoe (Feminine Style)",
@@ -1370,6 +1484,7 @@
     {
         "data": {
             "address": "LCS_EG_Head_BallCap-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Hat Main Color",
@@ -1382,6 +1497,7 @@
     {
         "data": {
             "address": "LCS_EG_Head_BasicHairClip-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Harclip Main Color",
@@ -1394,6 +1510,7 @@
     {
         "data": {
             "address": "LCS_EG_Head_PinnacleHat-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Unisex / Masculine",
@@ -1406,6 +1523,7 @@
     {
         "data": {
             "address": "LCS_EG_Head_PinnacleHat-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Feminine",
@@ -1418,6 +1536,7 @@
     {
         "data": {
             "address": "LCS_FLY_Body_LCSJersey-05-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Unisex",
@@ -1430,6 +1549,7 @@
     {
         "data": {
             "address": "LCS_FLY_Body_LCSJersey-06-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Feminine",
@@ -1442,6 +1562,7 @@
     {
         "data": {
             "address": "LCS_FLY_Body_PinnacleBody-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set",
@@ -1454,6 +1575,7 @@
     {
         "data": {
             "address": "LCS_FLY_Body_PinnacleBody-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
@@ -1466,6 +1588,7 @@
     {
         "data": {
             "address": "LCS_FLY_Body_Shirt-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Masculine Fit)",
@@ -1478,6 +1601,7 @@
     {
         "data": {
             "address": "LCS_FLY_Body_Shirt-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Feminine Fit)",
@@ -1490,6 +1614,7 @@
     {
         "data": {
             "address": "LCS_FLY_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Feet Item For Pinnacle Gear Set",
@@ -1502,6 +1627,7 @@
     {
         "data": {
             "address": "LCS_FLY_Feet_StreetShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Sneaker",
@@ -1514,6 +1640,7 @@
     {
         "data": {
             "address": "LCS_FLY_Feet_StreetShoes-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Shoe (Feminine Style)",
@@ -1526,6 +1653,7 @@
     {
         "data": {
             "address": "LCS_FLY_Head_BallCap-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Hat Main Color",
@@ -1538,6 +1666,7 @@
     {
         "data": {
             "address": "LCS_FLY_Head_BasicHairClip-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Harclip Main Color",
@@ -1550,6 +1679,7 @@
     {
         "data": {
             "address": "LCS_FLY_Head_PinnacleHat-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Unisex / Masculine",
@@ -1562,6 +1692,7 @@
     {
         "data": {
             "address": "LCS_FLY_Head_PinnacleHat-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Feminine",
@@ -1574,6 +1705,7 @@
     {
         "data": {
             "address": "LCS_GG_Body_LCSJersey-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Unisex",
@@ -1586,6 +1718,7 @@
     {
         "data": {
             "address": "LCS_GG_Body_LCSJersey-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Feminine",
@@ -1598,6 +1731,7 @@
     {
         "data": {
             "address": "LCS_GG_Body_PinnacleBody-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set",
@@ -1610,6 +1744,7 @@
     {
         "data": {
             "address": "LCS_GG_Body_PinnacleBody-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
@@ -1622,6 +1757,7 @@
     {
         "data": {
             "address": "LCS_GG_Body_Shirt-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Masculine Fit)",
@@ -1634,6 +1770,7 @@
     {
         "data": {
             "address": "LCS_GG_Body_Shirt-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Feminine Fit)",
@@ -1646,6 +1783,7 @@
     {
         "data": {
             "address": "LCS_GG_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Feet Item For Pinnacle Gear Set",
@@ -1658,6 +1796,7 @@
     {
         "data": {
             "address": "LCS_GG_Feet_StreetShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Sneaker",
@@ -1670,6 +1809,7 @@
     {
         "data": {
             "address": "LCS_GG_Feet_StreetShoes-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Shoe (Feminine Style)",
@@ -1682,6 +1822,7 @@
     {
         "data": {
             "address": "LCS_GG_Head_BallCap-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Hat Main Color",
@@ -1694,6 +1835,7 @@
     {
         "data": {
             "address": "LCS_GG_Head_BasicHairClip-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Harclip Main Color",
@@ -1706,6 +1848,7 @@
     {
         "data": {
             "address": "LCS_GG_Head_PinnacleHat-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Unisex / Masculine",
@@ -1718,6 +1861,7 @@
     {
         "data": {
             "address": "LCS_GG_Head_PinnacleHat-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Feminine",
@@ -1730,6 +1874,7 @@
     {
         "data": {
             "address": "LCS_IMT_Body_LCSJersey-03-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Unisex",
@@ -1742,6 +1887,7 @@
     {
         "data": {
             "address": "LCS_IMT_Body_LCSJersey-04-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Feminine",
@@ -1754,6 +1900,7 @@
     {
         "data": {
             "address": "LCS_IMT_Body_PinnacleBody-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set",
@@ -1766,6 +1913,7 @@
     {
         "data": {
             "address": "LCS_IMT_Body_PinnacleBody-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
@@ -1778,6 +1926,7 @@
     {
         "data": {
             "address": "LCS_IMT_Body_Shirt-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Masculine Fit)",
@@ -1790,6 +1939,7 @@
     {
         "data": {
             "address": "LCS_IMT_Body_Shirt-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Feminine Fit)",
@@ -1802,6 +1952,7 @@
     {
         "data": {
             "address": "LCS_IMT_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Feet Item For Pinnacle Gear Set",
@@ -1814,6 +1965,7 @@
     {
         "data": {
             "address": "LCS_IMT_Feet_StreetShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Sneaker",
@@ -1826,6 +1978,7 @@
     {
         "data": {
             "address": "LCS_IMT_Feet_StreetShoes-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Shoe (Feminine Style)",
@@ -1838,6 +1991,7 @@
     {
         "data": {
             "address": "LCS_IMT_Head_BallCap-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Hat Main Color",
@@ -1850,6 +2004,7 @@
     {
         "data": {
             "address": "LCS_IMT_Head_BasicHairClip-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Harclip Main Color",
@@ -1862,6 +2017,7 @@
     {
         "data": {
             "address": "LCS_IMT_Head_PinnacleHat-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Unisex / Masculine",
@@ -1874,6 +2030,7 @@
     {
         "data": {
             "address": "LCS_IMT_Head_PinnacleHat-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Feminine",
@@ -1886,6 +2043,7 @@
     {
         "data": {
             "address": "LCS_TL_Body_LCSJersey-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Unisex",
@@ -1898,6 +2056,7 @@
     {
         "data": {
             "address": "LCS_TL_Body_LCSJersey-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Feminine",
@@ -1910,6 +2069,7 @@
     {
         "data": {
             "address": "LCS_TL_Body_PinnacleBody-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set",
@@ -1922,6 +2082,7 @@
     {
         "data": {
             "address": "LCS_TL_Body_PinnacleBody-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
@@ -1934,6 +2095,7 @@
     {
         "data": {
             "address": "LCS_TL_Body_Shirt-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Masculine Fit)",
@@ -1946,6 +2108,7 @@
     {
         "data": {
             "address": "LCS_TL_Body_Shirt-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Feminine Fit)",
@@ -1958,6 +2121,7 @@
     {
         "data": {
             "address": "LCS_TL_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Feet Item For Pinnacle Gear Set",
@@ -1970,6 +2134,7 @@
     {
         "data": {
             "address": "LCS_TL_Feet_StreetShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Sneaker",
@@ -1982,6 +2147,7 @@
     {
         "data": {
             "address": "LCS_TL_Feet_StreetShoes-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Shoe (Feminine Style)",
@@ -1994,6 +2160,7 @@
     {
         "data": {
             "address": "LCS_TL_Head_BallCap-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Hat Main Color",
@@ -2006,6 +2173,7 @@
     {
         "data": {
             "address": "LCS_TL_Head_BasicHairClip-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Harclip Main Color",
@@ -2018,6 +2186,7 @@
     {
         "data": {
             "address": "LCS_TL_Head_PinnacleHat-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Unisex / Masculine",
@@ -2030,6 +2199,7 @@
     {
         "data": {
             "address": "LCS_TL_Head_PinnacleHat-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Feminine",
@@ -2042,6 +2212,7 @@
     {
         "data": {
             "address": "LCS_TSM_Body_LCSJersey-03-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Unisex",
@@ -2054,6 +2225,7 @@
     {
         "data": {
             "address": "LCS_TSM_Body_LCSJersey-04-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Jersey Feminine",
@@ -2066,6 +2238,7 @@
     {
         "data": {
             "address": "LCS_TSM_Body_PinnacleBody-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set",
@@ -2078,6 +2251,7 @@
     {
         "data": {
             "address": "LCS_TSM_Body_PinnacleBody-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Body Item For Pinnacle Gear Set (Feminine)",
@@ -2090,6 +2264,7 @@
     {
         "data": {
             "address": "LCS_TSM_Body_Shirt-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Masculine Fit)",
@@ -2102,6 +2277,7 @@
     {
         "data": {
             "address": "LCS_TSM_Body_Shirt-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Tee Main Color (Feminine Fit)",
@@ -2114,6 +2290,7 @@
     {
         "data": {
             "address": "LCS_TSM_Feet_PinnacleShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Epic Feet Item For Pinnacle Gear Set",
@@ -2126,6 +2303,7 @@
     {
         "data": {
             "address": "LCS_TSM_Feet_StreetShoes-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Sneaker",
@@ -2138,6 +2316,7 @@
     {
         "data": {
             "address": "LCS_TSM_Feet_StreetShoes-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Shoe (Feminine Style)",
@@ -2150,6 +2329,7 @@
     {
         "data": {
             "address": "LCS_TSM_Head_BallCap-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Basic Team Hat Main Color",
@@ -2162,6 +2342,7 @@
     {
         "data": {
             "address": "LCS_TSM_Head_BasicHairClip-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Team Harclip Main Color",
@@ -2174,6 +2355,7 @@
     {
         "data": {
             "address": "LCS_TSM_Head_PinnacleHat-01-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Unisex / Masculine",
@@ -2186,6 +2368,7 @@
     {
         "data": {
             "address": "LCS_TSM_Head_PinnacleHat-02-TeamGear_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M7",
             "name": "Legendary Team Hat - Feminine",
@@ -2198,6 +2381,7 @@
     {
         "data": {
             "address": "LCS_100T_Bodypaint_SkinTone-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "100T Skin Tone",
@@ -2210,6 +2394,7 @@
     {
         "data": {
             "address": "LCS_100T_Bodypaint_Warpaint-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "100T Warpaint",
@@ -2222,6 +2407,7 @@
     {
         "data": {
             "address": "LCS_C9_Bodypaint_SkinTone-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "C9 Skin Tone",
@@ -2234,6 +2420,7 @@
     {
         "data": {
             "address": "LCS_C9_Bodypaint_Warpaint-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "C9 Warpaint",
@@ -2246,6 +2433,7 @@
     {
         "data": {
             "address": "LCS_DIG_Bodypaint_SkinTone-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "DIG Skin Tone",
@@ -2258,6 +2446,7 @@
     {
         "data": {
             "address": "LCS_DIG_Bodypaint_Warpaint-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "Dig Warpaint",
@@ -2270,6 +2459,7 @@
     {
         "data": {
             "address": "LCS_EG_Bodypaint_SkinTone-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "EG Skin Tone",
@@ -2282,6 +2472,7 @@
     {
         "data": {
             "address": "LCS_EG_Bodypaint_Warpaint-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "EG Warpaint",
@@ -2294,6 +2485,7 @@
     {
         "data": {
             "address": "LCS_FLY_Bodypaint_SkinTone-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "FLY Skin Tone",
@@ -2306,6 +2498,7 @@
     {
         "data": {
             "address": "LCS_FLY_Bodypaint_Warpaint-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "FLY Warpaint",
@@ -2318,6 +2511,7 @@
     {
         "data": {
             "address": "LCS_GG_Bodypaint_SkinTone-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "GG Skin Tone",
@@ -2330,6 +2524,7 @@
     {
         "data": {
             "address": "LCS_GG_Bodypaint_Warpaint-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "GG Warpaint",
@@ -2342,6 +2537,7 @@
     {
         "data": {
             "address": "LCS_IMT_Bodypaint_SkinTone-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "IMT Skin Tone",
@@ -2354,6 +2550,7 @@
     {
         "data": {
             "address": "LCS_IMT_Bodypaint_Warpaint-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "IMT Warpaint",
@@ -2366,6 +2563,7 @@
     {
         "data": {
             "address": "LCS_TL_Bodypaint_SkinTone-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "TL Skin Tone",
@@ -2378,6 +2576,7 @@
     {
         "data": {
             "address": "LCS_TL_Bodypaint_Warpaint-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "TL Warpaint",
@@ -2390,6 +2589,7 @@
     {
         "data": {
             "address": "LCS_TSM_Bodypaint_SkinTone-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "TSM Skin Tone",
@@ -2402,6 +2602,7 @@
     {
         "data": {
             "address": "LCS_TSM_Bodypaint_Warpaint-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "TSM Warpaint",
@@ -2414,6 +2615,7 @@
     {
         "data": {
             "address": "LCS_CLG_Bodypaint_SkinTone-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "CLG Skin Tone",
@@ -2426,6 +2628,7 @@
     {
         "data": {
             "address": "LCS_CLG_Bodypaint_Warpaint-01_Var01",
+            "deleted": "no",
             "league": "lcs",
             "milestone": "M4",
             "name": "CLG Warpaint",
@@ -2438,6 +2641,7 @@
     {
         "data": {
             "address": "GPS_GP_Hair_DefaultBald-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Hair 0",
@@ -2450,6 +2654,7 @@
     {
         "data": {
             "address": "GPS_GP_Hair_Ponytail-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Hair 1",
@@ -2462,6 +2667,7 @@
     {
         "data": {
             "address": "GPS_GP_Hair_Ponytail-01_Var02",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Hair 2",
@@ -2474,6 +2680,7 @@
     {
         "data": {
             "address": "GPS_GP_Hair_Ponytail-01_Var03",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Hair 3",
@@ -2486,6 +2693,7 @@
     {
         "data": {
             "address": "GPS_GP_Teeth_Default-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Teeth 1",
@@ -2498,6 +2706,7 @@
     {
         "data": {
             "address": "GPS_GP_Teeth_Default-02_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Teeth 2",
@@ -2510,6 +2719,7 @@
     {
         "data": {
             "address": "GPS_GP_Eyes_Default-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Eyes 1",
@@ -2522,6 +2732,7 @@
     {
         "data": {
             "address": "GPS_GP_Eyes_Default-02_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Eyes 2",
@@ -2534,6 +2745,7 @@
     {
         "data": {
             "address": "GPS_GP_Back_FounderPack-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Founder's Backpack",
@@ -2546,6 +2758,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_FounderShirt-01-FullSleeve_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Founder's Epic Jersey",
@@ -2558,6 +2771,7 @@
     {
         "data": {
             "address": "GPS_GP_FaceUpper_FounderGlasses-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Founder's Shades",
@@ -2570,6 +2784,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_FounderShoes-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Founder's Shoes",
@@ -2582,6 +2797,7 @@
     {
         "data": {
             "address": "GPS_GP_Hands_FounderGloves-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Founder's Gloves",
@@ -2594,6 +2810,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_FounderCap-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Founder's Hat",
@@ -2606,6 +2823,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_VendorBlazer-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Vendor Coat",
@@ -2618,6 +2836,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_VendorShoes-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Vendor Slippers",
@@ -2630,6 +2849,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_VendorHair-01_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Vendor Hair",
@@ -2642,6 +2862,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Hoodie-02-HalfSleeve-Hood-Lightning_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Striker Hoodie",
@@ -2654,6 +2875,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_StreetShoes-02-Half-Lighting_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Striker Shoes",
@@ -2666,6 +2888,7 @@
     {
         "data": {
             "address": "GPS_GP_Hands_Gloves-02-Half-Lighting_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Striker Gloves",
@@ -2678,6 +2901,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_BallCap-02-Lighting_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Striker Hat",
@@ -2690,6 +2914,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-01-HalfSleeve-Duck_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Duck Shirt",
@@ -2702,6 +2927,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_StreetShoes-01-Half-Duck_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Duck Shoes",
@@ -2714,6 +2940,7 @@
     {
         "data": {
             "address": "GPS_GP_Hands_Gloves-01-Ful-Duck_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Duck Gloves",
@@ -2726,6 +2953,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_BallCap-01-Duck_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Duck Hat",
@@ -2738,6 +2966,7 @@
     {
         "data": {
             "address": "GPS_GP_Body_Shirt-01-HalfSleeve-Wind_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Swift Shirt",
@@ -2750,6 +2979,7 @@
     {
         "data": {
             "address": "GPS_GP_Feet_StreetShoes-01-Half-Wind_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Swift Shoes",
@@ -2762,6 +2992,7 @@
     {
         "data": {
             "address": "GPS_GP_Hands_Gloves-01-Full-Wind_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Swift Gloves",
@@ -2774,6 +3005,7 @@
     {
         "data": {
             "address": "GPS_GP_Head_BallCap-01-Wind_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M4",
             "name": "Swift Hat",
@@ -2786,11 +3018,1754 @@
     {
         "data": {
             "address": "GPS_GP_Body_FounderJersey-01-LCS_Var01",
+            "deleted": "no",
             "league": "gps",
             "milestone": "M5",
             "name": "Founder's Jersey",
             "rarity": "rare",
             "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Back_TeamBackpack-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Back_TeamBackpack-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Backpack",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "100",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Body_TeamJersey-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_FaceUpper_TeamGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Feet_TeamShoes-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Body_TeamJersey-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "100",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Feet_TeamShoes-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gray Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "100",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Hands_TeamGloves-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Head_TeamBallCap-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Cap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "100",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_100T_Head_TeamBallCap-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "100",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Back_TeamBackpack-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Back_TeamBackpack-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Backpack",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "EG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Body_TeamJersey-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_FaceUpper_TeamGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Feet_TeamShoes-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Body_TeamJersey-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "EG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Feet_TeamShoes-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gray Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "EG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Hands_TeamGloves-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Head_TeamBallCap-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Cap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "EG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_EG_Head_TeamBallCap-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "EG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Back_TeamBackpack-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Back_TeamBackpack-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Backpack",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "C9",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Body_TeamJersey-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_FaceUpper_TeamGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Feet_TeamShoes-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Body_TeamJersey-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "C9",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Feet_TeamShoes-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gray Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "C9",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Hands_TeamGloves-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Head_TeamBallCap-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Cap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "C9",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_C9_Head_TeamBallCap-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "C9",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Back_TeamBackpack-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Back_TeamBackpack-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Backpack",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "CLG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Body_TeamJersey-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Body_TeamJersey-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "CLG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Feet_TeamShoes-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_FaceUpper_TeamGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Feet_TeamShoes-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gray Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "CLG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Hands_TeamGloves-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Head_TeamBallCap-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Cap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "CLG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_CLG_Head_TeamBallCap-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "CLG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Back_TeamBackpack-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Back_TeamBackpack-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Backpack",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "DIG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Body_TeamJersey-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "DIG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Body_TeamJersey-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Feet_TeamShoes-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_FaceUpper_TeamGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Feet_TeamShoes-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gray Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "DIG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Hands_TeamGloves-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Head_TeamBallCap-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Cap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "DIG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_DIG_Head_TeamBallCap-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "DIG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Back_TeamBackpack-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Backpack",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "TL",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Body_TeamJersey-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Body_TeamJersey-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "TL",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Back_TeamBackpack-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_FaceUpper_TeamGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Feet_TeamShoes-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gray Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "TL",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Feet_TeamShoes-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Head_TeamBallCap-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Cap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Head_TeamBallCap-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "TL",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TL_Hands_TeamGloves-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "TL",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Back_TeamBackpack-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Back_TeamBackpack-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Backpack",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "IMT",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Body_TeamJersey-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "IMT",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Body_TeamJersey-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Feet_TeamShoes-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Feet_TeamShoes-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gray Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "IMT",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_FaceUpper_TeamGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Head_TeamBallCap-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Cap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Head_TeamBallCap-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "IMT",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_IMT_Hands_TeamGloves-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "IMT",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Back_TeamBackpack-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Body_TeamJersey-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Body_TeamJersey-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "TSM",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Back_TeamBackpack-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Backpack",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "TSM",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_FaceUpper_TeamGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Feet_TeamShoes-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Feet_TeamShoes-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gray Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "TSM",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Hands_TeamGloves-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Head_TeamBallCap-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Cap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "TSM",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_TSM_Head_TeamBallCap-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "TSM",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Back_TeamBackpack-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Back_TeamBackpack-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Backpack",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "FLY",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Body_TeamJersey-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Feet_TeamShoes-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Feet_TeamShoes-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gray Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "FLY",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Hands_TeamGloves-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Head_TeamBallCap-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Cap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Body_TeamJersey-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "FLY",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_FaceUpper_TeamGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "FLY",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_FLY_Head_TeamBallCap-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "FLY",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Back_TeamBackpack-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Back_TeamBackpack-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Backpack",
+            "rarity": "rare",
+            "slot": "back",
+            "team": "GG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Body_TeamJersey-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Body_TeamJersey-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Jersey",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "GG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_FaceUpper_TeamGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Feet_TeamShoes-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Feet_TeamShoes-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gray Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "GG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Hands_TeamGloves-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Head_TeamBallCap-01_Var01",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "White Cap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GG",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "LCS_GG_Head_TeamBallCap-01_Var02",
+            "deleted": "yes",
+            "league": "lcs",
+            "milestone": "M3.5",
+            "name": "Logo Cap",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "GG",
+            "var": "Var02"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Back_basicBackpack-01-Zipper_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Zipper Backpack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Back_CampingPack-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Camping Pack",
+            "rarity": "common",
+            "slot": "back",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Back_MechWings-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Mech Wings",
+            "rarity": "epic",
+            "slot": "back",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_basicJersey-01-NoSleeves_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Sleeveless Jersey",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Shirtless-01-Pants_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Just Pants",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_SportCoat-01-Shirt-Tie_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Sports Coat",
+            "rarity": "rare",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceLower_Mustache-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Horseshoe Mustache",
+            "rarity": "common",
+            "slot": "faceLower",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceLower_Mustache-02_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Handlebar Mustache",
+            "rarity": "common",
+            "slot": "faceLower",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceUpper_DisguiseGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Disguise",
+            "rarity": "rare",
+            "slot": "faceUpper",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceUpper_FaceMask-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Purple Mask",
+            "rarity": "rare",
+            "slot": "faceUpper",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceUpper_SlitGlasses-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Shutter Glasses",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_FaceUpper_SwimGoggles-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Swim Goggles",
+            "rarity": "common",
+            "slot": "faceUpper",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_basicShoes-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Green Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_ZipUpShoes-01-Zipper_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Zip-Up Shoes",
+            "rarity": "rare",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_SockPuppet-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Sock Puppet",
+            "rarity": "rare",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_BaseballBat-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Baseball Bat",
+            "rarity": "rare",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_BoxingGloves-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Boxing Gloves",
+            "rarity": "rare",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_PaddedGloves-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Padded Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_Thunderstick-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Thunderstick",
+            "rarity": "rare",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_Ballcap-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Ballcap",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_basicBeanie-01-BallTop_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Beanie w/Pom",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BoxingHelmet-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Boxing Headgear",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_CowboyHat-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Cowboy Hat",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_EagleHat-01-BeerCans_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Eagle Hat w/Root Beer",
+            "rarity": "legendary",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_HairStyle-01-Headband_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Big Hair w/Headband",
+            "rarity": "common",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_HairStyle-02-Goggle_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Hair and Goggles",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_Headphones-01-Mic_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Headphones",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_OldHelmet-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Helmet",
+            "rarity": "rare",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_RamCap-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Ram Cap",
+            "rarity": "epic",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_VikingHelmet-01_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M3.5.1",
+            "name": "Viking Helmet",
+            "rarity": "epic",
+            "slot": "head",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Body_Hoodie-02-HalfSleeve-Hood-Fire_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M4",
+            "name": "Heat Hoodie",
+            "rarity": "common",
+            "slot": "body",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Feet_StreetShoes-02-Half-Fire_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M4",
+            "name": "Heat Shoes",
+            "rarity": "common",
+            "slot": "feet",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Hands_Gloves-02-Half-Fire_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M4",
+            "name": "Heat Gloves",
+            "rarity": "common",
+            "slot": "hands",
+            "team": "GP",
+            "var": "Var01"
+        }
+    },
+    {
+        "data": {
+            "address": "GPS_GP_Head_BallCap-02-Fire_Var01",
+            "deleted": "yes",
+            "league": "gps",
+            "milestone": "M4",
+            "name": "Heat Hat",
+            "rarity": "common",
+            "slot": "head",
             "team": "GP",
             "var": "Var01"
         }
